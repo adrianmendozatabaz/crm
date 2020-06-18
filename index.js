@@ -52,5 +52,5 @@ const port = process.env.PORT || 5000;
 
 //iniciar ap
 app.listen(port, host, () => {
-    console.log('El servidor esta funcionando');
+    console.log('El servidor esta funcionando y listo');
 });
