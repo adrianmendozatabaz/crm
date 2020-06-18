@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "5ee2aaf67247c40c3c706499"
+  },
+  "nombre": "Adrian",
+  "apellido": "Mendoza",
+  "empresa": "Udemy",
+  "email": "correo@correo.com",
+  "telefono": "12155454122",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee2ab4d7247c40c3c70649b"
+  },
+  "nombre": "Jose",
+  "apellido": "Mendoza",
+  "empresa": "Udemy",
+  "email": "correo2@correo.com",
+  "telefono": "12155454122",
+  "__v": 0
+}]

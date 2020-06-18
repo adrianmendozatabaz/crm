@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5ee2b933cdee741dc4580977"
+  },
+  "nombre": "Camisa VueJS",
+  "precio": 25.5,
+  "imagen": "CqIyj2xTa.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee67298cfe35930a87c17d2"
+  },
+  "nombre": "Camisa AngularJS",
+  "precio": 85.5,
+  "imagen": "dGcvx1A06.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee67c18cfe35930a87c17d4"
+  },
+  "nombre": "Camisa ReactJS2",
+  "precio": 75.5,
+  "imagen": "vxy8GOqoY.jpeg",
+  "__v": 0
+}]
